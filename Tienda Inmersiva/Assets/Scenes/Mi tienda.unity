@@ -1411,7 +1411,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 9b37bf2f54751294c829410a928fd463, type: 2}
+    - {fileID: 11400000, guid: 15d2586ea508bcb4eb0830ab5d818b93, type: 2}
 --- !u!54 &1446747634
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1437,7 +1437,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 112
   m_CollisionDetection: 0
 --- !u!1001 &1455360239
 PrefabInstance:
